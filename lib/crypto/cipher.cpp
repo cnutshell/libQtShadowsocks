@@ -30,6 +30,7 @@
 #include <botan/lookup.h>
 #include <botan/md5.h>
 #include <botan/pipe.h>
+#include <botan/filters.h>
 
 #ifdef USE_BOTAN2
 #include <botan/hkdf.h>
